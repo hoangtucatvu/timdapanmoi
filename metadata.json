@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trợ lý Trắc nghiệm AI",
+  "description": "Một ứng dụng React sử dụng Gemini để giúp trả lời các câu hỏi trắc nghiệm từ một kho đề cho trước hoặc từ hình ảnh được tải lên.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
